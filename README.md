@@ -50,13 +50,22 @@ como resultado obtive a seguinte resposta.
 Deixei marcado a senha que foi obtida.
 Agora só abrir o sistema FTP da máquina testada para verificar.
 
-`ftp 192.168.56.103 
+`ftp 192.168.56.103
+
 Connected to 192.168.56.103.
+
 220 (vsFTPd 2.3.4)
+
 **Name (192.168.56.103:keven): msfadmin**
+
 331 Please specify the password.
+
 Password: 
+
 230 Login successful.
+
 Remote system type is UNIX.
+
 Using binary mode to transfer files.
+
 ftp> `

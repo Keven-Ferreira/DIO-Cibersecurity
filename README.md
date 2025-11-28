@@ -165,3 +165,8 @@ Notem que após a senha ser encontrada todas as tentaivas posteriores são dadas
   
   2025-11-28 00:25:18 ACCOUNT CHECK: [smbnt] Host: 192.168.56.103 (1 of 1, 0 complete) User: admin (3 of 4, 3 complete) Password: querty (3 of 4 complete)
   ```
+
+
+Para finalizar, a principal recomendação é sempre utilizar senhas fortes, sempre que houver troca de pessoal fazer a alteração de senhas de pontos críticos. 
+
+Sempre manter atualizado os sistemas e com todas as portas não necessárias fechadas.
